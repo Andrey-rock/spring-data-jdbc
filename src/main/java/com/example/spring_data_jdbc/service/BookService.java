@@ -1,5 +1,7 @@
-package com.example.spring_data_jdbc;
+package com.example.spring_data_jdbc.service;
 
+import com.example.spring_data_jdbc.model.Book;
+import com.example.spring_data_jdbc.repository.BookRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

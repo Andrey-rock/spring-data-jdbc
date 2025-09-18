@@ -1,5 +1,7 @@
-package com.example.spring_data_jdbc;
+package com.example.spring_data_jdbc.controller;
 
+import com.example.spring_data_jdbc.service.BookService;
+import com.example.spring_data_jdbc.model.Book;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
