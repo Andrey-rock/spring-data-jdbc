@@ -1,5 +1,6 @@
-package com.example.spring_data_jdbc;
+package com.example.spring_data_jdbc.repository;
 
+import com.example.spring_data_jdbc.model.Book;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.jdbc.support.GeneratedKeyHolder;

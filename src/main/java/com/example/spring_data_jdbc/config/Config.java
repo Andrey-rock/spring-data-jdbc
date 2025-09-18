@@ -1,4 +1,4 @@
-package com.example.spring_data_jdbc;
+package com.example.spring_data_jdbc.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
